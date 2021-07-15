@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frenman
-- 👀 My e-mail is wangjc@gmail.com 
+- 👀 My e-mail is wangjc024@gmail.com 
 
 <!---
 frenman/frenman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
